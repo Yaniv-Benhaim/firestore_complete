@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900883767673",
+    "project_id": "firestore-complete-cffd8",
+    "storage_bucket": "firestore-complete-cffd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900883767673:android:e04309c6b321fd2a588fa8",
+        "android_client_info": {
+          "package_name": "tech.gamedev.firestorecomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900883767673-ecau8o90dket34sn84dl9tfjm2coecji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9JFt7pt3qp5tWRadsw9nAj_K1NJfyAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900883767673-ecau8o90dket34sn84dl9tfjm2coecji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
